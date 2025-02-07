@@ -1,0 +1,17 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "select.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/es6-promise": "^0.0.33",
+    "es6-promise": "^4.2.8",
+    "html2pdf.js": "^0.10.2"
+  }
+}
